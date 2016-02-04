@@ -2,7 +2,7 @@ page.title=Reference of Available Intents
 excludeFromSuggestions=true
 @jd:body
 
-<p>This document describes the default applications and settings that Google provides
+<p>New content ----- This document describes the default applications and settings that Google provides
     in their standard Android implementation. </p>
 <h3>Intents handled by Google Android applications<a name="googleintents" id="googleintents"></a></h3>
  <p> Android ships with Activities that handle the following Intent URI/Action pairs. </p>
