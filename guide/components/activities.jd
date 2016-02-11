@@ -6,7 +6,7 @@ page.tags=activity,intent
 <div id="qv">
 <h2>In this document</h2>
 <ol>
-  <li><a href="#Creating">Creating an Activity</a>
+  <li><a href="#Creating">MC Test 4 on local - Creating an Activity</a>
     <ol>
       <li><a href="#UI">Implementing a user interface</a></li>
       <li><a href="#Declaring">Declaring the activity in the manifest</a></li>
