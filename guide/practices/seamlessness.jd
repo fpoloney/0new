@@ -7,7 +7,7 @@ excludeFromSuggestions=true
 
 <h2>In this document</h2>
 <ol>
-  <li><a href="#drop">Don't Drop Data</a></li>
+  <li>MC test - Changed on remote -  <a href="#drop">Don't Drop Data</a></li>
   <li><a href="#expose">Don't Expose Raw Data</a></li>
   <li><a href="#interrupt">Don't Interrupt the User</a></li>
   <li><a href="#threads">Got a Lot to Do? Do it in a Thread</a></li>
