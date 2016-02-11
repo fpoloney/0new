@@ -11,7 +11,7 @@ excludeFromSuggestions=true
 
 
 <div id="naMessage" style="display:block">
-<div><p><strong>This document has been deprecated.</strong></p>
+<div><p><strong>This document has been deprecated. MC3 remote </strong></p>
  <p>To learn about how you can  optimize your app for both tablets and handsets, please
 read the guide to <a href="tablets-and-handsets.html">Supporting Tablets and
 Handsets</a>.</p>
