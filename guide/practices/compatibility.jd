@@ -4,7 +4,7 @@ excludeFromSuggestions=true
 
 <div id="qv-wrapper">
 <div id="qv">
-<h2>MC Test 2 - change on local - In this document</h2>
+<h2>change on remote MC Test 2 - change on local - In this document</h2>
 <ol>
   <li><a href="#defined">What Does "Compatibility" Mean?</a></li>
   <li><a href="#how">Controlling Your App's Availability to Devices</a>
