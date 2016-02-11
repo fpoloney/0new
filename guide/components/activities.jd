@@ -8,7 +8,7 @@ page.tags=activity,intent
 <ol>
   <li><a href="#Creating">Creating an Activity</a>
     <ol>
-      <li><a href="#UI">MC Test 4 - change on remote - Implementing a user interface</a></li>
+      <li><a href="#UI">Implementing a user interface</a></li>
       <li><a href="#Declaring">Declaring the activity in the manifest</a></li>
     </ol>
   </li>
