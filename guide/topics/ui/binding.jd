@@ -5,7 +5,7 @@ parent.link=index.html
 
 <div id="qv-wrapper">
 <div id="qv">
-  <h2>In this document</h2>
+  <h2>Change with local .ga file not yet pushed In this document</h2>
   <ol>
     <li><a href="#FillingTheLayout">Filling the Layout with Data</a></li>
     <li><a href="#HandlingUserSelections">Handling User Selections</a></li>
