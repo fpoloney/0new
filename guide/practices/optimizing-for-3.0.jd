@@ -11,7 +11,11 @@ excludeFromSuggestions=true
 
 
 <div id="naMessage" style="display:block">
-<div><p><strong>MC test 3 on local -   This document has been deprecated.</strong></p>
+<<<<<<< HEAD
+<div><p><strong>This document has been deprecated. MC remote</strong></p>
+=======
+<div><p><strong>This document has been deprecated. MC3 remote </strong></p>
+>>>>>>> 8cc13e217ae94325e6cd699df16b9e690a620362
  <p>To learn about how you can  optimize your app for both tablets and handsets, please
 read the guide to <a href="tablets-and-handsets.html">Supporting Tablets and
 Handsets</a>.</p>
