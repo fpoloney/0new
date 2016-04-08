@@ -1,0 +1,35 @@
+From b0a01fd06d4bc0da3d6f0d54f8b59a01cfb39c25 Mon Sep 17 00:00:00 2001
+From: Frank Poloney <frank.poloney@infopros.com>
+Date: Fri, 8 Apr 2016 09:14:43 -0700
+Subject: [PATCH] p7
+
+---
+ .gitattributes | 1 -
+ guide/index.jd | 3 +++
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/.gitattributes b/.gitattributes
+index ab1ec67..6d44177 100644
+--- a/.gitattributes
++++ b/.gitattributes
+@@ -1,3 +1,2 @@
+ #Force LF on .jd files
+ *.jd eol=lf
+-
+diff --git a/guide/index.jd b/guide/index.jd
+index 92cf11f..a6dd0e1 100644
+--- a/guide/index.jd
++++ b/guide/index.jd
+@@ -4,6 +4,9 @@ page.title=Introduction to Android
+ 
+ 
+ <div class="sidebox" style="max-width:30%"><!-- width to match col-4 below -->
++<p>Change on p7</p>
++
++
+ <p>Change on remote - To learn how apps work, start with
+ <a href="{@docRoot}guide/components/fundamentals.html">App Fundamentals</a>.</p>
+ <p>To begin coding right away, read <a
+-- 
+2.7.4.windows.1
+
