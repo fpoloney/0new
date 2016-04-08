@@ -6,6 +6,8 @@ header.hide=1
 footer.hide=1
 @jd:body
 
+<p>p6 second</p>
+
 
 <section class="dac-expand dac-hero dac-light">
   <div class="wrap">
